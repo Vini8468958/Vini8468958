@@ -113,14 +113,6 @@ Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -143,4 +135,10 @@ Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<img 
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
+/>
+
