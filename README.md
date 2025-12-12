@@ -1,41 +1,32 @@
-# Vinícius Barbosa
+<h3 align="center">
+        <samp>&gt; Olá! Prazer em conhecer,
+        </samp>
+</h3>
 
-**`Desenvolvedor FullStack`**
 
-Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
+<p align="center">
+ <a href="www.linkedin.com/in/vinícius-barbosa-753a80306" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
 </p>
+<br />
 
----
+<h2>Sobre mim:</h2>
+<p>Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife.</p>
+
+<br/>
+<br/>
 
 ### Linguagens e Tecnologias
 
@@ -131,14 +122,43 @@ Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife
 <br/>
 <br/>
 
----
+## Projetos:
 
-### 📊 Estatísticas
+<p align="left">
+  <a href="https://github.com/Vini8468958?tab=repositories" target="_blank">
+    <img alt="Repositórios" title="Repositórios"
+      src="https://img.shields.io/badge/-All%20Repos-0D1117?style=for-the-badge&logo=koding&logoColor=white&labelColor=0D1117&color=7F3FBF&border=7F3FBF"/>
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" 
-/>
+<br/>
 
+## Estatísticas
+
+
+<p align="center">
+  <a href="https://github.com/Vini8468958">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vini8468958&theme=radical" alt="Vinícius Barbosa's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Vini8468958"><img alt="Vinícius Barbosa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Vini8468958&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Vini8468958"><img alt="Vinícius Barbosa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Vini8468958&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/vineetkumar02/vineetkumar02/output/github-contribution-grid-snake.svg"
+  />
+</picture>
