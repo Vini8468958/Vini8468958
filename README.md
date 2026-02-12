@@ -26,7 +26,9 @@
 <br />
 
 <h2>Sobre mim:</h2>
-<p>Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife.</p>
+<p>Me chamo Vinícius Barbosa de Figueirêdo, tenho 19 anos e sou natural do Recife. Me formei em técnico em Redes de Computadores em 2022, com o Ensino Médio na ETE Pastor Isaac Martins Rodrigues. No momento, estou cursando o 5° Período de Sistemas de Informação na Uninassau.</p>
+
+<p>Sou um cara proativo, estou interessado e aberto a aprender cada vez mais a respeito da Área de TI para seguir evoluindo. Algumas das linguagens e tecnologias que mais utilizo são Front-end, Figma para Design UX/UI, Redes de Computadores, Tailwind CSS, consumo de APIs Rest, Angular, MySql e continuo sempre estudando para aprimorar meus conhecimentos.</p>
 
 <br/>
 <br/>
@@ -190,7 +192,7 @@
     alt="Photoshop" 
     title="Photoshop"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
 
